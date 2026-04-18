@@ -2,8 +2,6 @@
 
 This repository contains Jupyter notebooks for implementing Retrieval-Augmented Generation (RAG) systems with various document chunking strategies and data ingestion pipelines.
 
-## 📚 Notebooks
-
 ### 1. RAG_CHUNK_CONCEPT.ipynb
 Comprehensive guide to implementing **five different chunking methods** for RAG systems:
 
@@ -29,7 +27,7 @@ Comprehensive guide to implementing **five different chunking methods** for RAG 
 ### 2. RAG_Data_Ingestion.ipynb
 Data ingestion pipeline for RAG systems (Note: Contains merge conflicts that need resolution)
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Google Colab
 Open the notebooks directly in Google Colab:
