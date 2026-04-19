@@ -1,7 +1,7 @@
 # RAG System - Document Chunking and Data Ingestion
 
 This repository contains Jupyter notebooks for implementing Retrieval-Augmented Generation (RAG) systems with various document chunking strategies and data ingestion pipelines.
-
+ 
 ### 1. RAG_CHUNK_CONCEPT.ipynb
 Comprehensive guide to implementing **five different chunking methods** for RAG systems:
 
